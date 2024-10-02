@@ -6,11 +6,11 @@ You can check out some stuff I'm up to [here](https://glittery-yeot-b74309.netli
 
 
 ## Familiar with
-[![My Skills](https://skillicons.dev/icons?i=html,css,node.js,react,ps,pr,git,ts,js,sqlite,tailwind,vite,vitest&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,react,ps,pr,git,ts,js,sqlite,tailwind,vite,vitest&perline=8)](https://skillicons.dev)
 
-🌱 I’m currently learning Docker, Kubernetes, and advanced cloud technologies to enhance my DevOps skills.
 
-##Looking to learn
+
+## Looking to learn 🌱
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,caws&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,c,aws,nextjs&perline=3)](https://skillicons.dev)
 
