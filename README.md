@@ -5,8 +5,8 @@ You can check out some stuff I'm up to [here](https://glittery-yeot-b74309.netli
 
 
 
-##Familiar with
-[![My Skills](https://skillicons.dev/icons?i=html,css,node.js,react,ps,pr,git,github,ts,js,,sqlite,tailwind,vite,vitest&perline=5)](https://skillicons.dev)
+## Familiar with
+[![My Skills](https://skillicons.dev/icons?i=html,css,node.js,react,ps,pr,git,github,ts,js,,sqlite,tailwind,vite,vitest&perline=8)](https://skillicons.dev)
 
 🌱 I’m currently learning Docker, Kubernetes, and advanced cloud technologies to enhance my DevOps skills.
 
